@@ -2,7 +2,7 @@ import React from "react";
 
 const Home = () => (
   <div>
-    <h2>Dog Pictures</h2>
+    <h2>Iguana Pictures</h2>
   </div>
 );
 
